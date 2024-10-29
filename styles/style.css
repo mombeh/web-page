@@ -1,0 +1,214 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+body {
+    background-color: #f0f8ff;
+}
+.hero-content {
+    display: block;
+    background-image:url(../images/poku.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+
+button {
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+    font-size: 10px;
+    padding: 9px;
+    
+}
+
+nav {
+    display: none;
+}
+
+.icon {
+    display: flex;
+    flex-direction: end;
+    justify-content: space-between;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+ 
+}
+
+.ctn {
+    background-image: url(../images/poki.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    font-size: 15px;
+}
+
+span {
+    color: #1886e7;
+    font-size: 1rem;
+    display: flex;
+}
+
+.Project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+}
+
+.animates {
+    display:grid;
+    align-items: center;
+    padding: 5px;
+    background-color: #fff;
+    margin: 8px;
+    gap: 10px;
+    
+}
+
+.btn {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    align-items: center;
+    background-image: url(../images/blender.png) ; 
+    text-align: center;
+}
+
+.side {
+    display: fl;
+    justify-content: center;
+    background-color: #fff;
+    color: #808080;
+}
+
+
+.icn {
+    background-color: #fdf5f5f2;
+    border-radius: 2px;
+    padding: 10px;
+
+}
+
+.articles {
+    display: grid;
+    background-color: #fff;
+}
+
+.conclusion {
+    background-color: #000000;
+    color: #fff;
+}
+
+.pge {
+    display: grid;
+    justify-content: space-between;
+}
+
+.material-icons {
+    background-color: #1886e7;
+    color: #fff;
+    font-size: 4px;
+    border: 3px;
+}
+
+.article-two {
+    display:grid;
+    align-items: center;
+    padding: 10px;
+    background-color: #fff;
+    margin: 8px;
+    justify-content: space-between;
+}
+
+.step {
+    padding: 3em 0;
+}
+
+.align-tm {
+    padding: 1em 0;
+    border-radius: 10px;
+    margin: 0.7em;
+    box-shadow: 0 4px 4px #bab9b9;
+}
+
+.container {
+    display: grid;
+    background-color: #fff;
+}
+
+.align-text {
+
+}
+
+.live {
+    display: grid;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+.peg {
+    display: flex;
+    gap: 10px;
+}
+
+.image {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.items {
+    display: flex;
+    margin: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+
+}
+
+.pta {
+    display: flex;
+    flex-direction: row;
+    border-radius: 1px;
+    font-size: 10px;
+
+    ul {
+       display: flex;
+    }
+}
+
+.border {
+    border: 1px twice;
+}
+
+.lang {
+    display: grid;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin: 5px; 
+}
+
+.long {
+    display: grid;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin: 5px;
+}
