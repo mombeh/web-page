@@ -38,6 +38,7 @@ nav {
     display: flex;
     flex-direction: end;
     justify-content: space-between;
+    padding: 3px;
 }
 
 .icons {
@@ -222,4 +223,15 @@ span {
 .client {
     color: #4343f5;
     text-align: center;
+}
+
+.material-symbols-outlined {
+    background-color: #1886e7;
+    color: #fff;
+    font-size: 4px;
+    border: 3px;
+}
+
+@media screen and [min-width: 1024px]{
+    
 }
